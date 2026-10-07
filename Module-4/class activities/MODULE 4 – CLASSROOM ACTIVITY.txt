@@ -1,0 +1,139 @@
+MODULE 4 – CLASSROOM ACTIVITIES
+
+REACT.JS FRONTEND DEVELOPMENT
+
+ACTIVITY 1: COMPONENT CREATION WORKSHOP
+
+
+QUESTION:
+
+Design and develop reusable UI components such as Navigation Bar, Cards, Forms, Modal Windows, and Dashboard Widgets.
+
+ANSWER:
+
+React follows a component-based architecture. A component is a small and reusable part of a user interface.
+
+In this activity, students create reusable components such as:
+
+• Navigation Bar
+• Cards
+• Forms
+• Modal Windows
+• Dashboard Widgets
+
+These components can be reused in different parts of a React application. Component-based development helps reduce code duplication and makes applications easier to maintain.
+
+RESULT:
+
+Students understand component-based architecture and the importance of reusable components.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ACTIVITY 2: DYNAMIC DATA RENDERING LAB
+
+QUESTION:
+
+Consume data from APIs and dynamically display Student Lists, Product Catalogs, News Feeds, and Weather Information.
+
+ANSWER:
+
+Dynamic data rendering means retrieving data from an API and displaying it dynamically in a React application.
+
+A React application can send a request to an API, receive the required data, and display the data using React components.
+
+Examples include:
+
+• Student Lists
+• Product Catalogs
+• News Feeds
+• Weather Information
+
+Basic flow:
+
+User → React Application → API Request → API Response → React Component → Display Data
+
+RESULT:
+
+Students understand how API data can be retrieved and displayed dynamically in a React application.
+--------------------------------------------------------------------------------------------------------------------------------------
+ACTIVITY 3: STATE MANAGEMENT CHALLENGE
+
+
+QUESTION:
+
+Create interactive applications involving Counters, Task Managers, Expense Trackers, and Shopping Carts.
+
+ANSWER:
+
+State management is used to manage data that changes during the execution of a React application.
+
+React provides Hooks such as useState to create and manage component state.
+
+Examples include:
+
+• Counter – manages the current count.
+• Task Manager – manages a list of tasks.
+• Expense Tracker – manages expense information.
+• Shopping Cart – manages selected products.
+
+When the state changes, React updates the corresponding user interface.
+
+RESULT:
+
+Students understand React state management and application flow.
+-----------------------------------------------------------------------------------------------------------------------------
+ACTIVITY 4: ROUTING & NAVIGATION EXERCISE
+
+QUESTION:
+
+Implement multi-page navigation, dynamic routes, protected pages, and navigation menus.
+
+ANSWER:
+
+Routing is used to navigate between different pages or views of a React application.
+
+React Router can be used to implement navigation in a React application.
+
+The activity includes:
+
+• Multi-page navigation
+• Dynamic routes
+• Protected pages
+• Navigation menus
+
+Routing allows users to move between different sections of an application without completely reloading the webpage.
+
+Basic flow:
+
+User → Navigation Link → React Router → Matching Route → Required Component → Display
+
+RESULT:
+
+Students understand Single Page Application (SPA) navigation patterns.
+----------------------------------------------------------------------------------------------------------------------------------------
+ACTIVITY 5: TEAM UI DEVELOPMENT SPRINT
+
+
+QUESTION:
+
+Work in teams to develop a dashboard interface using reusable React components.
+
+ANSWER:
+
+In this activity, students work as a team to develop a dashboard interface using reusable React components.
+
+The dashboard can contain components such as:
+
+• Navigation Bar
+• Cards
+• Forms
+• Dashboard Widgets
+• Other reusable UI components
+
+Team members can work on different components and combine them to create the complete dashboard interface.
+
+This activity provides practical exposure to collaborative frontend development.
+
+RESULT:
+
+Students gain exposure to collaborative frontend development practices.
+

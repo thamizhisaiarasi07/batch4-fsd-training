@@ -1,0 +1,110 @@
+MODULE 1 – CLASSROOM ACTIVITIES
+PROGRAMMING FUNDAMENTALS & WEB DEVELOPMENT BASICS
+
+ACTIVITY 1:
+HOW THE INTERNET WORKS
+
+QUESTION:
+Simulate the interaction between a browser, server, and database to understand how requests are processed and responses are returned.
+
+ANSWER:
+
+When a user opens a website, the browser sends a request to the server. The server receives the request and processes it. If the requested information is stored in a database, the server communicates with the database and retrieves the required data. The server then sends the response back to the browser. Finally, the browser displays the requested information to the user.
+
+Process:
+User → Browser → Server → Database → Server → Browser → Result
+
+RESULT:
+The interaction between the browser, server, and database is understood. The activity demonstrates how a web application processes requests and returns responses.
+
+
+ACTIVITY 2:
+LOGIC BUILDING CHALLENGE
+
+QUESTION:
+Solve progressively complex logical problems using flowcharts and pseudocode before implementing them in code.
+
+ANSWER:
+
+Logic building is the process of developing a step-by-step solution for a problem. Before writing a program, the problem can be represented using an algorithm, flowchart, or pseudocode.
+
+An algorithm provides a sequence of steps to solve a problem.
+
+A flowchart represents these steps using diagrams and symbols.
+
+Pseudocode describes the solution using simple English-like statements.
+
+For example, to find whether a number is even or odd:
+
+1. Start
+2. Read a number
+3. Divide the number by 2
+4. Check the remainder
+5. If the remainder is 0, display "Even"
+6. Otherwise, display "Odd"
+7. Stop
+
+RESULT:
+The activity helps students develop logical thinking and understand how a problem can be converted into a structured solution before writing actual code.
+
+
+ACTIVITY 3:
+REAL-WORLD SCENARIO MAPPING
+
+QUESTION:
+Identify common applications used daily and map their frontend, backend, and database components.
+
+ANSWER:
+
+A web application generally consists of three major components: frontend, backend, and database.
+
+Frontend:
+The frontend is the part of the application that users see and interact with. It includes pages, forms, menus, and other user interface elements.
+
+Backend:
+The backend handles the application logic and processes requests received from the frontend.
+
+Database:
+The database stores and manages information required by the application.
+
+Example – Online Shopping Application:
+
+Frontend: Product page, search, shopping cart
+Backend: Login processing, order processing, payment processing
+Database: User details, product details, order details
+
+Simple flow:
+User → Frontend → Backend → Database
+
+RESULT:
+The activity helps students understand how frontend, backend, and database components work together in real-world applications.
+
+
+MODULE 1 THEORY – IMPORTANT DEFINITIONS
+
+1. What is the Internet?
+The Internet is a global network that connects computers and devices to communicate and exchange information.
+
+2. What is a browser?
+A browser is a software application used to access and view websites.
+
+3. What is a server?
+A server is a computer or system that receives requests and provides services or data to other computers.
+
+4. What is a database?
+A database is a system used to store and manage data.
+
+5. What is frontend?
+Frontend is the user-facing part of a web application.
+
+6. What is backend?
+Backend is the part of an application that handles processing and application logic.
+
+7. What is an algorithm?
+An algorithm is a step-by-step procedure used to solve a problem.
+
+8. What is a flowchart?
+A flowchart is a graphical representation of the steps involved in solving a problem.
+
+9. What is pseudocode?
+Pseudocode is a simple way of describing program logic using understandable statements before writing actual code.
